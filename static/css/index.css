@@ -2,13 +2,13 @@
 /* Scss Document */
 @import url(base.css);
 @import url(stylesheet.css);
-@import url("89a837e8a406481b939b22605896a9ee.css");
+
 .header {
   position: relative; }
   .header .topline {
     background: #6510ad;
     FILTER: progid:DXImageTransform.Microsoft.gradient(GradientType=1, startColorstr='#6510ad', endColorstr='#4627AD');
-    background: linear-gradient(90deg, #6510ad 60%, #104fad);
+    background: linear-gradient(90deg, #109dad 60%, #104fad);
     height: 6px; }
   .header .navwrapper {
     position: absolute;
